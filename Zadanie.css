@@ -1,0 +1,21 @@
+.first {
+    border: 1px solid #524b4b;
+    padding: 20px;
+    background: #524b4b;
+    color: black;
+}
+.second {
+    color: blue;
+}
+p {
+    color:black;
+    font-size: 22px;
+}
+h2 {
+    color:black;
+    font-size: 22px;
+}
+li {
+    font-size: 18px;
+    margin-left: 30px;
+}
