@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/mypage/me", methods=['GET'])
 def me():
-    return render_template("Zadanie.html")
+    return render_template("zadanie.html")
 
 @app.route("/mypage/contact", methods=['GET', 'POST'])
 def contact():
